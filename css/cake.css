@@ -18,9 +18,9 @@ body {
 
 .cake-wrapper {
     position: relative;
-    transform: scale(1.8); 
+    transform: scale(2.2); 
     margin-top: -50vh;
-    margin-bottom: 12rem; 
+    margin-bottom: 17rem; 
     display: flex;
     justify-content: center;
     
@@ -172,4 +172,5 @@ body {
     display: block;
     font-family: 'Lato', sans-serif;
     font-weight: bold;
+
 }
